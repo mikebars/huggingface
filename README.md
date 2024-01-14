@@ -1,10 +1,14 @@
 ---
-title: Huggingface
-emoji: 📈
-colorFrom: pink
-colorTo: gray
+title: Hugging Face
+emoji: 🤗
+colorFrom: yellow
+colorTo: yellow
 sdk: static
 pinned: false
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+# 🤗
+
+## [GitHub Pages](https://mikebars.github.io/huggingface)
+
+## [Hugging Face Spaces](https://huggingface.co/spaces/mikebars/huggingface)
